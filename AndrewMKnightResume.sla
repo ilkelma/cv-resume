@@ -91,7 +91,7 @@
             <ITEXT FONT="Inconsolata Medium" CH="],"/>
             <para/>
             <ITEXT FONT="Inconsolata Medium" CH="address: { line1: "/>
-            <ITEXT FONT="Inconsolata Medium" FCOLOR="Black" FSHADE="60" CH="&quot;159 Snead Rd&quot;"/>
+            <ITEXT FONT="Inconsolata Medium" FONTSIZE="4" FCOLOR="Black" FSHADE="60" CH="&quot;$6$656000$jQ803MrMQRC4nfEk$ZQD0aEgBeZXvpYvMeTbBzQbN6GZDncZ7/14yvph8i96lR27NPg9ioara.LX0nsFsxhpCFwAKsmB.TWc842dLB.&quot;"/>
             <ITEXT FONT="Inconsolata Medium" CH=","/>
             <para/>
             <tab FONT="Inconsolata Medium"/>
@@ -116,7 +116,7 @@
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="142.75" YPOS="169.25" WIDTH="525.25" HEIGHT="42.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 525.25 0 525.25 0 525.25 0 525.25 0 525.25 42.75 525.25 42.75 525.25 42.75 525.25 42.75 0 42.75 0 42.75 0 42.75 0 42.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 525.25 0 525.25 0 525.25 0 525.25 0 525.25 42.75 525.25 42.75 525.25 42.75 525.25 42.75 0 42.75 0 42.75 0 42.75 0 42.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FCOLOR="Blue" FSHADE="100" CH="new"/>
             <ITEXT CH=" Summary("/>
-            <ITEXT FCOLOR="Black" FSHADE="60" CH="&quot;Full stack web developer well versed in existing J2EE frameworks and languages but platform agnostic with an aptitude and eagerness to learn new languages, technologies and solutions.&quot;"/>
+            <ITEXT FCOLOR="Black" FSHADE="60" CH="&quot;Full stack web developer well versed in existing J2EE frameworks and languages but platform agnostic with an aptitude and eagerness to learn new languages, technologies and solutions. Aspiring DevOps/Site Reliability Engineer as well. I &lt;3 automation.&quot;"/>
             <ITEXT CH=");"/>
             <trail/>
             <PageItemAttributes/>
@@ -130,7 +130,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="138" YPOS="505.5" WIDTH="453" HEIGHT="28.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 453 0 453 0 453 0 453 0 453 28.5 453 28.5 453 28.5 453 28.5 0 28.5 0 28.5 0 28.5 0 28.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 453 0 453 0 453 0 453 0 453 28.5 453 28.5 453 28.5 453 28.5 0 28.5 0 28.5 0 28.5 0 28.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="138" YPOS="509.5" WIDTH="453" HEIGHT="28.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 453 0 453 0 453 0 453 0 453 28.5 453 28.5 453 28.5 453 28.5 0 28.5 0 28.5 0 28.5 0 28.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 453 0 453 0 453 0 453 0 453 28.5 453 28.5 453 28.5 453 28.5 0 28.5 0 28.5 0 28.5 0 28.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Arial Bold" FONTSIZE="10" CH="Programmer@Accenture  +  August 2011 – June 2013 "/>
             <para/>
             <ITEXT FONTSIZE="10" CH="System Specialist/Developer filling primarily Java developer roles within the Federal Services division"/>
@@ -353,17 +353,16 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="174.25" YPOS="229" WIDTH="474" HEIGHT="18" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 474 0 474 0 474 0 474 0 474 18 474 18 474 18 474 18 0 18 0 18 0 18 0 18 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 474 0 474 0 474 0 474 0 474 18 474 18 474 18 474 18 0 18 0 18 0 18 0 18 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="18" CH="Java"/>
-            <ITEXT CH=", "/>
-            <ITEXT FONTSIZE="14" CH="J2EE"/>
-            <ITEXT CH=", "/>
+            <ITEXT FONTSIZE="18" CH="Java, J2EE, "/>
             <ITEXT FONTSIZE="15" CH="Spring"/>
-            <ITEXT CH=", Maven, "/>
-            <ITEXT FONTSIZE="15" CH="JavaScript"/>
-            <ITEXT CH=", "/>
-            <ITEXT FONTSIZE="18" CH="jQuery"/>
-            <ITEXT CH=","/>
-            <ITEXT FONTSIZE="16" CH=" jQuery UI, CSS,"/>
+            <ITEXT FONTSIZE="18" CH=", "/>
+            <ITEXT FONTSIZE="13" CH="Maven"/>
+            <ITEXT FONTSIZE="18" CH=", JavaScript, "/>
+            <ITEXT FONTSIZE="15" CH="jQuery"/>
+            <ITEXT FONTSIZE="18" CH=","/>
+            <ITEXT FONTSIZE="15" CH=" jQuery UI"/>
+            <ITEXT FONTSIZE="18" CH=", "/>
+            <ITEXT FONTSIZE="14" CH="CSS"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -691,19 +690,21 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="198" YPOS="263" WIDTH="466" HEIGHT="17" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 466 0 466 0 466 0 466 0 466 17 466 17 466 17 466 17 0 17 0 17 0 17 0 17 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 466 0 466 0 466 0 466 0 466 17 466 17 466 17 466 17 0 17 0 17 0 17 0 17 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="167" YPOS="263" WIDTH="507.5" HEIGHT="17" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 507.5 0 507.5 0 507.5 0 507.5 0 507.5 17 507.5 17 507.5 17 507.5 17 0 17 0 17 0 17 0 17 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 507.5 0 507.5 0 507.5 0 507.5 0 507.5 17 507.5 17 507.5 17 507.5 17 0 17 0 17 0 17 0 17 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONTSIZE="17" CH=" angular.js"/>
-            <ITEXT CH=", HTML, SQL, MVC, PL/SQL, git, svn, eclipse, XML, "/>
-            <ITEXT FONTSIZE="15" CH="REST"/>
+            <ITEXT CH=", HTML, SQL, MVC, Docker, PL/SQL, git, svn, eclipse, XML, "/>
+            <ITEXT FONTSIZE="15" CH="REST, Ansible"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="168.5" YPOS="245" WIDTH="482.5" HEIGHT="17.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 482.5 0 482.5 0 482.5 0 482.5 0 482.5 17.25 482.5 17.25 482.5 17.25 482.5 17.25 0 17.25 0 17.25 0 17.25 0 17.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 482.5 0 482.5 0 482.5 0 482.5 0 482.5 17.25 482.5 17.25 482.5 17.25 482.5 17.25 0 17.25 0 17.25 0 17.25 0 17.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="17" CH="Agile Methodologies, "/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="114.5" YPOS="247" WIDTH="580.5" HEIGHT="17.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 580.5 0 580.5 0 580.5 0 580.5 0 580.5 17.25 580.5 17.25 580.5 17.25 580.5 17.25 0 17.25 0 17.25 0 17.25 0 17.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 580.5 0 580.5 0 580.5 0 580.5 0 580.5 17.25 580.5 17.25 580.5 17.25 580.5 17.25 0 17.25 0 17.25 0 17.25 0 17.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="17" CH="Agile, "/>
             <ITEXT FONTSIZE="10" CH="Ruby"/>
             <ITEXT FONTSIZE="17" CH=", "/>
             <ITEXT FONTSIZE="10" CH="Python, "/>
             <ITEXT FONTSIZE="13" CH="Tomcat"/>
+            <ITEXT FONTSIZE="15" CH=", "/>
+            <ITEXT FONTSIZE="13" CH="Apache HTTPD"/>
             <ITEXT FONTSIZE="15" CH=", "/>
             <ITEXT FONTSIZE="14" CH="Scala, JIRA, "/>
             <ITEXT FONTSIZE="17" CH="Groovy, Gradle"/>
@@ -717,16 +718,19 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="154.75" YPOS="333.5" WIDTH="517.25" HEIGHT="174.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 517.25 0 517.25 0 517.25 0 517.25 0 517.25 174.5 517.25 174.5 517.25 174.5 517.25 174.5 0 174.5 0 174.5 0 174.5 0 174.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 517.25 0 517.25 0 517.25 0 517.25 0 517.25 174.5 517.25 174.5 517.25 174.5 517.25 174.5 0 174.5 0 174.5 0 174.5 0 174.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="10" CH="Lead transition of our codebase from SVN to git (via a hosted Atlassian Stash instance). "/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="154.75" YPOS="333.5" WIDTH="517.25" HEIGHT="176" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 517.25 0 517.25 0 517.25 0 517.25 0 517.25 176 517.25 176 517.25 176 517.25 176 0 176 0 176 0 176 0 176 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 517.25 0 517.25 0 517.25 0 517.25 0 517.25 176 517.25 176 517.25 176 517.25 176 0 176 0 176 0 176 0 176 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="10" CH="Lead transition of our codebase from SVN to git (via a hosted Atlassian Stash instance and now GitHub). "/>
             <para/>
-            <ITEXT FONTSIZE="10" CH="Lead transition from Skype to HipChat and integrated with services. "/>
+            <ITEXT FONTSIZE="10" CH="Lead transition from Skype to HipChat and integrated with services (helped lead to Slack as well). "/>
             <para/>
             <ITEXT FONTSIZE="10" CH="Integrated a third party tax calculation web service via Groovy XML/SOAP messaging for all transactions Architected and solely coded a full stack class management application with an administration thick client written in angular.js which works with a RESTful api (restlet - written in Groovy) accessing the DB via Squeryl (Scala). (Ultimately not adopted because of lack of resources)."/>
             <para/>
             <ITEXT FONTSIZE="10" CH="Integrated a new email service provider via SAX messaging to a SOAP webservice."/>
             <para/>
-            <ITEXT FONTSIZE="10" CH="Moving our development and qa environments to AWS ec2 instances as well as setting up s3 buckets and cloudfront instances for our static files."/>
+            <ITEXT FONTSIZE="10" CH="Used ansible to build out configuration for our new production servers and successfully deployed them during our busiest time of the year receiving accolades for how stable they are vs our old servers."/>
+            <ITEXT CH=" "/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="Built docker containers using EC2 and ECS to handle reverse proxying and redirecting."/>
             <para/>
             <ITEXT FONTSIZE="10" CH="Built a fabric file to administer common tasks on dev servers both in AWS and locally."/>
             <para/>
